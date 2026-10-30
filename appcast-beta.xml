@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Cadência Beta</title>
+    <item>
+      <title>Cadência Beta 1.0</title>
+      <pubDate>Fri, 30 Oct 2026 14:34:42 +0000</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Atualização pelo próprio app, pelo botão Atualizar na barra lateral</li></ul>]]></description>
+      <enclosure url="https://github.com/yancaiodesigner/cadencia-releases/releases/download/beta-2/Cadencia-Beta-2.zip"
+                 type="application/octet-stream" sparkle:edSignature="ST1UiwfkCkQSxuq8UKh6Jakevh+anZpHeV5Zh1Z8Fami8Xvc9JUAUkNCfM307JmkcZwncGfXo0GNn8XcrMljAQ==" length="5765670" />
+    </item>
+  </channel>
+</rss>
