@@ -4,14 +4,13 @@
     <title>Cadência</title>
     <item>
       <title>Cadência 1.0</title>
-      <pubDate>Fri, 30 Oct 2026 15:26:10 +0000</pubDate>
-      <sparkle:version>4</sparkle:version>
+      <pubDate>Fri, 30 Oct 2026 16:57:13 +0000</pubDate>
+      <sparkle:version>7</sparkle:version>
       <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Atualização pelo próprio app: ao abrir, o Cadência avisa quando há versão nova</li>
-<li>Botão Atualizar na barra lateral</li></ul>]]></description>
-      <enclosure url="https://github.com/yancaiodesigner/cadencia-releases/releases/download/v4/Cadencia-4.zip"
-                 type="application/octet-stream" sparkle:edSignature="Buaf/5345i9VWRB1TBOAG0o2F3phNp4WLzISeHhN5+ZcsUqKkwXOepihzMk7HJ2MzhCOXsD0k2QIW8VlMMVLBw==" length="5228584" />
+      <description><![CDATA[<ul><li>A atualização aparece logo depois de publicada</li></ul>]]></description>
+      <enclosure url="https://github.com/yancaiodesigner/cadencia-releases/releases/download/v7/Cadencia-7.zip"
+                 type="application/octet-stream" sparkle:edSignature="uqiT5n1HM3EbgJu1Yn0INkzGyaATaN8qw8on3nWSeUT6Fzy3qD53MEb01PvzOXK/20waPHm8E8031/2dQOiuBQ==" length="5241147" />
     </item>
   </channel>
 </rss>
