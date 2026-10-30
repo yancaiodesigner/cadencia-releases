@@ -4,13 +4,13 @@
     <title>Cadência Beta</title>
     <item>
       <title>Cadência Beta 1.0</title>
-      <pubDate>Fri, 30 Oct 2026 16:38:28 +0000</pubDate>
-      <sparkle:version>5</sparkle:version>
+      <pubDate>Fri, 30 Oct 2026 16:42:23 +0000</pubDate>
+      <sparkle:version>6</sparkle:version>
       <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>A atualização aparece em até 1 minuto depois de publicada</li></ul>]]></description>
-      <enclosure url="https://github.com/yancaiodesigner/cadencia-releases/releases/download/beta-5/Cadencia-Beta-5.zip"
-                 type="application/octet-stream" sparkle:edSignature="Xu//asEcuxDR7Y3Yhl7NDQTW1hOoqcFFG5EZKV4XENRcf6YfuiKBtVBFotdhU1KIM5pjebbwn9bvH2bexWOXCA==" length="5766629" />
+      <description><![CDATA[<ul><li>Versão nova aparece logo depois de publicada</li></ul>]]></description>
+      <enclosure url="https://github.com/yancaiodesigner/cadencia-releases/releases/download/beta-6/Cadencia-Beta-6.zip"
+                 type="application/octet-stream" sparkle:edSignature="BjU7r2KaRxB+Vjf8d6YCEjOgl5Qk0v6a00wiUfV13OHGojOUA2uOXXJO/jHu7nUwtF+Yj1d1HDNSoqsE/7MsCA==" length="5778513" />
     </item>
   </channel>
 </rss>
