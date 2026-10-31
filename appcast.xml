@@ -4,13 +4,19 @@
     <title>Cadência</title>
     <item>
       <title>Cadência 1.0</title>
-      <pubDate>Fri, 30 Oct 2026 16:57:13 +0000</pubDate>
-      <sparkle:version>7</sparkle:version>
+      <pubDate>Sat, 31 Oct 2026 19:30:25 +0000</pubDate>
+      <sparkle:version>8</sparkle:version>
       <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>A atualização aparece logo depois de publicada</li></ul>]]></description>
-      <enclosure url="https://github.com/yancaiodesigner/cadencia-releases/releases/download/v7/Cadencia-7.zip"
-                 type="application/octet-stream" sparkle:edSignature="uqiT5n1HM3EbgJu1Yn0INkzGyaATaN8qw8on3nWSeUT6Fzy3qD53MEb01PvzOXK/20waPHm8E8031/2dQOiuBQ==" length="5241147" />
+      <description><![CDATA[<ul><li>Rascunhos: guarde posts sem data e depois agende, publique ou mande para um lote.</li>
+<li>Banco de hashtags: salve grupos e insira com um clique em qualquer legenda.</li>
+<li>Contador de hashtags com o limite atual do Instagram: até 5 por post.</li>
+<li>Feed: botão Reorganizar para mudar a ordem dos posts agendados e salvar as datas novas.</li>
+<li>Lotes: nova opção Personalizado e Horário flexível como opção ao lado de Distribuir no dia.</li>
+<li>No horário flexível, o post de hoje sai uma hora depois de agora.</li>
+<li>Arrastar um post para um horário que já passou não faz mais ele sumir: ele volta e aparece um aviso.</li></ul>]]></description>
+      <enclosure url="https://github.com/yancaiodesigner/cadencia-releases/releases/download/v8/Cadencia-8.zip"
+                 type="application/octet-stream" sparkle:edSignature="dyk0MgdHWuMkpjm0iHdieaGAmygsbstwIBc2FMGLVbM9i2f4AAPZkNKKP3VofI1d3thtTm0iiouo0i6/igqNDQ==" length="5677325" />
     </item>
   </channel>
 </rss>
