@@ -4,13 +4,15 @@
     <title>Cadência Beta</title>
     <item>
       <title>Cadência Beta 1.0</title>
-      <pubDate>Wed, 04 Nov 2026 14:31:45 +0000</pubDate>
-      <sparkle:version>9</sparkle:version>
+      <pubDate>Mon, 09 Nov 2026 13:51:13 +0000</pubDate>
+      <sparkle:version>11</sparkle:version>
       <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Recadenciar: um lote que já saiu por inteiro pode ser reaberto para agendar tudo de novo, com as mesmas mídias, legendas e regras</li></ul>]]></description>
-      <enclosure url="https://github.com/yancaiodesigner/cadencia-releases/releases/download/beta-9/Cadencia-Beta-9.zip"
-                 type="application/octet-stream" sparkle:edSignature="a8KZqy+jsLZSAzdMjAwvvBGL1kC2ssspH/uSKU67UvGksvSoACq/rQdXZST7Rx3EOSZEXSrpeSr1/mJY6BJEAg==" length="6221511" />
+      <description><![CDATA[<ul><li>Legendas com IA: o botão IA, ao lado de Hashtags, gera 3 opções de legenda a partir da foto, do carrossel ou do vídeo</li>
+<li>Melhorar a legenda com IA: corrigir erros, encurtar, deixar mais envolvente, mais vendedora ou mais profissional, adicionar emojis ou reescrever</li>
+<li>Não precisa de chave nem de conta: dá para esconder o botão em Ajustes</li></ul>]]></description>
+      <enclosure url="https://github.com/yancaiodesigner/cadencia-releases/releases/download/beta-11/Cadencia-Beta-11.zip"
+                 type="application/octet-stream" sparkle:edSignature="b0QJz4DUbfedzX7ioI/EGhk3z3kE/4eqeRX8CbhJc9JNyDYatCU+2IOL5rYk+48wFqPVNoH2qNVgyMyF0hZcAg==" length="6300248" />
     </item>
   </channel>
 </rss>
