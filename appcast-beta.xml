@@ -4,15 +4,16 @@
     <title>Cadência Beta</title>
     <item>
       <title>Cadência Beta 1.0</title>
-      <pubDate>Mon, 09 Nov 2026 13:51:13 +0000</pubDate>
-      <sparkle:version>11</sparkle:version>
+      <pubDate>Mon, 16 Nov 2026 12:56:16 +0000</pubDate>
+      <sparkle:version>13</sparkle:version>
       <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Legendas com IA: o botão IA, ao lado de Hashtags, gera 3 opções de legenda a partir da foto, do carrossel ou do vídeo</li>
-<li>Melhorar a legenda com IA: corrigir erros, encurtar, deixar mais envolvente, mais vendedora ou mais profissional, adicionar emojis ou reescrever</li>
-<li>Não precisa de chave nem de conta: dá para esconder o botão em Ajustes</li></ul>]]></description>
-      <enclosure url="https://github.com/yancaiodesigner/cadencia-releases/releases/download/beta-11/Cadencia-Beta-11.zip"
-                 type="application/octet-stream" sparkle:edSignature="b0QJz4DUbfedzX7ioI/EGhk3z3kE/4eqeRX8CbhJc9JNyDYatCU+2IOL5rYk+48wFqPVNoH2qNVgyMyF0hZcAg==" length="6300248" />
+      <description><![CDATA[<ul><li>Calendário: planeje o mês, crie lembretes que avisam no dia de preparar e no dia de postar</li>
+<li>Mapear datas: feriados nacionais, estaduais e da sua cidade, datas comemorativas e datas do seu nicho</li>
+<li>Os avisos agora chegam mesmo com o app fechado</li>
+<li>Se você sair do app com posts agendados, o Mac avisa que o post não vai sair até você abrir o app</li></ul>]]></description>
+      <enclosure url="https://github.com/yancaiodesigner/cadencia-releases/releases/download/beta-13/Cadencia-Beta-13.zip"
+                 type="application/octet-stream" sparkle:edSignature="nT58fUz+/J9aBAB4A++fez3jxkKFHP91USSj/D3PbKVNznQrUohE1lsUMCgB6u0vo4NBnQ+qAqwA3TPRhmpXBA==" length="6806107" />
     </item>
   </channel>
 </rss>
