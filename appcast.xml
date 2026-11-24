@@ -4,17 +4,14 @@
     <title>Cadência</title>
     <item>
       <title>Cadência 1.0</title>
-      <pubDate>Tue, 24 Nov 2026 03:11:59 +0000</pubDate>
-      <sparkle:version>16</sparkle:version>
+      <pubDate>Tue, 24 Nov 2026 03:35:41 +0000</pubDate>
+      <sparkle:version>18</sparkle:version>
       <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Calendário: o mês em grade com lembretes, feriados nacionais e estaduais, datas comemorativas e Mapear datas com IA</li>
-<li>Avisos marcados no macOS, que chegam mesmo com o app fechado</li>
-<li>Publicar ficou mais resistente: o app tenta de novo sozinho quando o Instagram não consegue baixar a foto ou dá um erro passageiro</li>
-<li>Legendas com IA falham bem menos: o app e o servidor tentam de novo quando a IA está ocupada</li>
-<li>A janela de gerar legenda cabe na tela, com o fundo do app e sem barra de rolagem</li></ul>]]></description>
-      <enclosure url="https://github.com/yancaiodesigner/cadencia-releases/releases/download/v16/Cadencia-16.zip"
-                 type="application/octet-stream" sparkle:edSignature="b87jqLE6G4ZcGGbsV2i0I/5oR7sUulryOYzuqOaRfE0gkH0uqcL2wPOW6D/Y+xItBCUJjRElFC37zbww5GWECQ==" length="6323551" />
+      <description><![CDATA[<ul><li>Segurança: o componente de link temporário só roda se for o original da Cloudflare</li>
+<li>Segurança: os pedidos de IA só vão para o servidor oficial do Cadência</li></ul>]]></description>
+      <enclosure url="https://github.com/yancaiodesigner/cadencia-releases/releases/download/v18/Cadencia-18.zip"
+                 type="application/octet-stream" sparkle:edSignature="ib9E9PMUxMHpXmNzdORyDNrKSBYs0DLwvmPe518TFDZUu5PYmQJyDe/pCJpArMUzT+eRpLwGYR3c1Bj6ddX9Dw==" length="6334029" />
     </item>
   </channel>
 </rss>
