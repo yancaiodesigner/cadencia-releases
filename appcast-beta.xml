@@ -4,14 +4,14 @@
     <title>Cadência Beta</title>
     <item>
       <title>Cadência Beta 1.0</title>
-      <pubDate>Tue, 24 Nov 2026 03:03:41 +0000</pubDate>
-      <sparkle:version>15</sparkle:version>
+      <pubDate>Tue, 24 Nov 2026 03:27:44 +0000</pubDate>
+      <sparkle:version>17</sparkle:version>
       <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>A janela de gerar legenda agora tem o fundo do app, sem a cor do tema do Mac</li>
-<li>Sem a barra de rolagem lateral: um esmaecido no pé mostra que há mais opções</li></ul>]]></description>
-      <enclosure url="https://github.com/yancaiodesigner/cadencia-releases/releases/download/beta-15/Cadencia-Beta-15.zip"
-                 type="application/octet-stream" sparkle:edSignature="V9ItVIB78XD/Rpj/Cf26yKaTs0asCGZ/TcW7PSJM4hoM2A2n9PNVTUADYNuqhDQ7Tb2SH3orl9kDtl0MbwWPCg==" length="6860953" />
+      <description><![CDATA[<ul><li>Segurança: o componente de link temporário só roda se for o original da Cloudflare</li>
+<li>Segurança: os pedidos de IA só vão para o servidor oficial do Cadência</li></ul>]]></description>
+      <enclosure url="https://github.com/yancaiodesigner/cadencia-releases/releases/download/beta-17/Cadencia-Beta-17.zip"
+                 type="application/octet-stream" sparkle:edSignature="dzcOkHkjDD/kPkjzN2uAiFh/8uZLC4gPR4AQODLf5GzgJ31k7pLq5lAUrM9nFsaKhWuHQh80YTPq8WgHgJJ8Dg==" length="6871416" />
     </item>
   </channel>
 </rss>
