@@ -4,16 +4,15 @@
     <title>Cadência Beta</title>
     <item>
       <title>Cadência Beta 1.0</title>
-      <pubDate>Mon, 16 Nov 2026 12:56:16 +0000</pubDate>
-      <sparkle:version>13</sparkle:version>
+      <pubDate>Tue, 24 Nov 2026 02:44:17 +0000</pubDate>
+      <sparkle:version>14</sparkle:version>
       <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Calendário: planeje o mês, crie lembretes que avisam no dia de preparar e no dia de postar</li>
-<li>Mapear datas: feriados nacionais, estaduais e da sua cidade, datas comemorativas e datas do seu nicho</li>
-<li>Os avisos agora chegam mesmo com o app fechado</li>
-<li>Se você sair do app com posts agendados, o Mac avisa que o post não vai sair até você abrir o app</li></ul>]]></description>
-      <enclosure url="https://github.com/yancaiodesigner/cadencia-releases/releases/download/beta-13/Cadencia-Beta-13.zip"
-                 type="application/octet-stream" sparkle:edSignature="nT58fUz+/J9aBAB4A++fez3jxkKFHP91USSj/D3PbKVNznQrUohE1lsUMCgB6u0vo4NBnQ+qAqwA3TPRhmpXBA==" length="6806107" />
+      <description><![CDATA[<ul><li>Publicar ficou mais resistente: o app tenta de novo sozinho quando o Instagram não consegue baixar a foto ou dá um erro passageiro</li>
+<li>Legendas com IA falham bem menos: o app e o servidor tentam de novo quando a IA está ocupada</li>
+<li>A janela de gerar legenda agora cabe na tela e rola por dentro, sem precisar redimensionar</li></ul>]]></description>
+      <enclosure url="https://github.com/yancaiodesigner/cadencia-releases/releases/download/beta-14/Cadencia-Beta-14.zip"
+                 type="application/octet-stream" sparkle:edSignature="RbJRo2Xp7+qSZ/PNtb45TO6slQNDAi/BJK8FD4ITC2vUIxltmhBc5odk9Am+Q/9ALKeioX56g36oKAKFq1AAAg==" length="6850323" />
     </item>
   </channel>
 </rss>
