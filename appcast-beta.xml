@@ -4,14 +4,15 @@
     <title>Cadência Beta</title>
     <item>
       <title>Cadência Beta 1.0</title>
-      <pubDate>Tue, 24 Nov 2026 03:27:44 +0000</pubDate>
-      <sparkle:version>17</sparkle:version>
+      <pubDate>Thu, 26 Nov 2026 14:59:34 +0000</pubDate>
+      <sparkle:version>19</sparkle:version>
       <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Segurança: o componente de link temporário só roda se for o original da Cloudflare</li>
-<li>Segurança: os pedidos de IA só vão para o servidor oficial do Cadência</li></ul>]]></description>
-      <enclosure url="https://github.com/yancaiodesigner/cadencia-releases/releases/download/beta-17/Cadencia-Beta-17.zip"
-                 type="application/octet-stream" sparkle:edSignature="dzcOkHkjDD/kPkjzN2uAiFh/8uZLC4gPR4AQODLf5GzgJ31k7pLq5lAUrM9nFsaKhWuHQh80YTPq8WgHgJJ8Dg==" length="6871416" />
+      <description><![CDATA[<ul><li>Fechar o app (⌘Q ou o X da janela) não para mais os posts: ele fica no ícone da barra de menus e publica nos horários</li>
+<li>Para fechar de verdade, use Sair de vez no ícone da barra de menus (ou ⌥⌘Q)</li>
+<li>Abrir o app de novo traz a janela de volta</li></ul>]]></description>
+      <enclosure url="https://github.com/yancaiodesigner/cadencia-releases/releases/download/beta-19/Cadencia-Beta-19.zip"
+                 type="application/octet-stream" sparkle:edSignature="UadIVX16lCwV+8jtf0r6VxO7+S0AcWhi3cBNLmZq9xKABCWMW11/VRmlau1wKAJtTInTXZDBmh6gf9BxnATUCQ==" length="6887707" />
     </item>
   </channel>
 </rss>
